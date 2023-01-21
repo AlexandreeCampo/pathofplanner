@@ -1,1 +1,1 @@
-# pathofplanner
+# path-of-planner
